@@ -17,7 +17,7 @@ export const TaskList = ({ todos, onDelete, onDone }: ListArgs) => {
       {todos.map(todo => (
         <li
           key={todo.id}
-          className="list__item"
+          className={`list__item ${todo.done ? 'list__item--done' : ''}`}
         >
           <p className="list__item-description"
           >
