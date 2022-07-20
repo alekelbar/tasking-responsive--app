@@ -7,6 +7,6 @@ Visita el sitio alojado en netlify.
 ### Desktop
 ![Diseño web responsivo, mobile firts](https://i.imgur.com/MN0D4Bi.png)
 
-### mobile
+### Mobile
 ![Diseño web responsivo, mobile firts](https://i.imgur.com/j5TR7Sa.png)
 
